@@ -1,0 +1,6 @@
+this is an example of huffman encoding
+huffman encoding is a lossless data compression algorithm
+it assigns variable length codes to input characters
+the codes are based on the frequencies of characters
+more frequent characters get shorter codes
+less frequent characters get longer codes
