@@ -1,5 +1,3 @@
----
-
 # Algorithm Practice in Python
 
 This repository contains a collection of algorithmic exercises implemented in Python. It serves as a personal archive for practicing fundamental to advanced algorithms, aiming to enhance problem-solving skills and prepare for technical interviews.
