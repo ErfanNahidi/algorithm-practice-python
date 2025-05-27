@@ -55,16 +55,3 @@ This repository contains a collection of algorithmic exercises implemented in Py
 * The code is written for educational purposes and may not be optimized for production use.
 * Contributions are welcome. Feel free to fork the repository and submit pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-For more information and updates, visit the [GitHub repository](https://github.com/ErfanNahidi/algorithm-practice-python).
-
----
-
-[1]: https://github.com/shushrutsharma/Data-Structures-and-Algorithms-Python?utm_source=chatgpt.com "shushrutsharma/Data-Structures-and-Algorithms-Python - GitHub"
-[2]: https://stackoverflow.com/questions/36237477/python-docstrings-to-github-readme-md?utm_source=chatgpt.com "Python docstrings to GitHub README.md - Stack Overflow"
-[3]: https://www.makeareadme.com/?utm_source=chatgpt.com "Make a README"
